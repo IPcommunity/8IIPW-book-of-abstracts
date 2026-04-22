@@ -1,6 +1,6 @@
 # Book of Abstracts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19697323.svg)](https://doi.org/10.5281/zenodo.19697323) [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19697322.svg)](https://doi.org/10.5281/zenodo.19697322) [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 ## 8th International Induced Polarization Workshop  
 
